@@ -3,7 +3,7 @@ As an advanced Qemu launcher and manager with win32 library
 
 Made by [tienanh109](https://github.com/tienanh109)
 
-Download (.exe) at [Releases](https://github.com/tienanh109/Qemu-VM-Manager/releases)
+**Download (.exe) at [Releases](https://github.com/tienanh109/Qemu-VM-Manager/releases)**
 
 # Features
 - Simple UI, easy to use

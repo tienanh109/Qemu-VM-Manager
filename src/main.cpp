@@ -298,7 +298,7 @@ void CreateMainControls(HWND hwnd) {
     CreateWindow(L"STATIC", L"CD/DVD (iso):", WS_CHILD, 30, 235, 100, 20, hwnd, (HMENU)IDC_STATIC_ISO, hInst, NULL);
     hIso = CreateWindow(L"EDIT", L"", WS_CHILD | WS_BORDER, 140, 230, 410, 25, hwnd, (HMENU)IDC_ISO_EDIT, hInst, NULL);
     CreateWindow(L"BUTTON", L"Browse...", WS_CHILD, 560, 230, 80, 25, hwnd, (HMENU)IDC_ISO_BROWSE_BTN, hInst, NULL);
-    hCreateDiskBtn = CreateWindow(L"BUTTON", L"Create New Disk Image...", WS_CHILD, 140, 270, 200, 30, hwnd, (HMENU)IDC_CREATEDISK_BTN, hInst, NULL);
+    // hCreateDiskBtn = CreateWindow(L"BUTTON", L"Create New Disk Image...", WS_CHILD, 140, 270, 200, 30, hwnd, (HMENU)IDC_CREATEDISK_BTN, hInst, NULL);
 
     // --- Hardware Tab Controls ---
     CreateWindow(L"STATIC", L"Audio:", WS_CHILD, 30, 75, 100, 20, hwnd, (HMENU)IDC_STATIC_AUDIO, hInst, NULL);

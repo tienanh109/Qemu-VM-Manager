@@ -13,7 +13,7 @@ Made by [tienanh109](https://github.com/tienanh109)
 - and more and more..!!
 
 # How to build?
-1. Make sure **VSCode** and **CMake"** and the necessary tools to build c++ project (win32 library)
+1. Make sure **VSCode** and **CMake** and the **necessary tools to build c++ project** (win32 library)
 2. Clone this project:
 ```bash
 git clone https://github.com/tienanh109/Qemu-VM-Manager/
